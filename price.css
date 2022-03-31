@@ -1,0 +1,15 @@
+.info-price {
+    padding: 40px;
+    padding-top: 50px;
+}
+
+.price {
+    display: flex;
+}
+
+.price-pic {
+    width: 450px;
+    display: block;
+}
+
+

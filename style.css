@@ -1,0 +1,66 @@
+body {
+    font-family: 'palatino linotype'; 
+    margin: 0;
+    color: rgb(133, 115, 103);
+    display: flex;
+    flex-direction: raw;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(104, 98, 89);
+}
+
+a:hover {
+    color: rgb(192, 159, 137);
+}
+
+h2 {
+    font-size: 27px;
+}
+
+.hat-paper {
+    height: 450px;
+}
+
+.nav {
+    line-height: center;
+    margin: 50px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    min-width: 200px;
+}
+
+.nav .nav-item{
+
+    padding-top: 5px;
+    display: flex;
+    justify-content: left;
+}
+
+.info {
+    padding-top: 40px;
+}
+
+.nav-contacts {
+    font-size: 16px ;
+    padding-top: 30px;
+}
+
+.content {
+    margin-top: 40px;
+    padding: 40px;
+    font-size: 20px;
+}
+
+.content-header {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+footer {
+    margin: 150px;
+}
+

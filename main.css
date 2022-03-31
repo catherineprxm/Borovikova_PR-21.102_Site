@@ -1,0 +1,36 @@
+.me-pic{
+    width: 340px;
+    display: block;
+}
+
+.all-text {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.biography {
+    display: flex;
+    flex-direction: row;
+}
+
+.work {
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+}
+
+.text {
+    padding-left: 28px;
+    display: flex;
+    word-wrap: break-all;
+    flex-wrap: wrap;
+}
+
+.text-2 {
+    padding-right: 28px;
+    display: flex;
+    word-wrap: break-all;
+    flex-wrap: wrap;
+}
+

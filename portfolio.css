@@ -1,0 +1,12 @@
+.galery{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.portfolio-cover {
+    width: 250px;
+    padding: 20px;
+    display: block;
+}
+
